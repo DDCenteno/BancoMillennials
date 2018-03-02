@@ -5,7 +5,10 @@ El Banco del País es una institución de muchos años y actualmente está pasan
 ___
 
 ### Introducción:
+
 Los millennials al ser una población aproximada del 70%, con la caracteristica de ser personas que se pueden adaptar facilmente a los cambios. Es una generación que se caracteriza por la hiperconexión, la necesidad de auto expresarse, la realidad financiera, el interés por la salud, la inmediatez y la búsqueda de experiencias entre otras cosas.
+
+[Link de la presentación](https://docs.google.com/presentation/d/1IidnhES_ktjlBexaw6KgnrKLCoHs6xrZquP4pc6_9g4/edit#slide=id.p3)
 
 ### SkateHolders del proyecto:
 
