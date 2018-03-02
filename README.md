@@ -58,5 +58,5 @@ Crear una banca 100% digital para los millennials, que sea de fácil acceso, que
 * **Testeo y Realización de producto**: Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital y con los feedbacks recibidos se prototipa.
 
 ### Miembros:
-[Alejandra Hoces](https://github.com/alejandraHoces)
-[Daniela Centeno](https://github.com/DDCenteno)
+* [Alejandra Hoces](https://github.com/alejandraHoces)
+* [Daniela Centeno](https://github.com/DDCenteno)
