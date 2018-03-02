@@ -1,11 +1,11 @@
 # Banco Millennial
-    El Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.
+El Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.
 
 ## Desarrollado para Laboratoria.
 ___
 
 ### Introducción:
-    Los millennials al ser una población aproximada del 70%, con la caracteristica de ser personas que se pueden adaptar facilmente a los cambios. Es una generación que se caracteriza por la hiperconexión, la necesidad de auto expresarse, la realidad financiera, el interés por la salud, la inmediatez y la búsqueda de experiencias entre otras cosas.
+Los millennials al ser una población aproximada del 70%, con la caracteristica de ser personas que se pueden adaptar facilmente a los cambios. Es una generación que se caracteriza por la hiperconexión, la necesidad de auto expresarse, la realidad financiera, el interés por la salud, la inmediatez y la búsqueda de experiencias entre otras cosas.
 
 ### SkateHolders del proyecto:
 
