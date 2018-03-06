@@ -57,6 +57,22 @@ Crear una banca 100% digital para los millennials, que sea de fácil acceso, que
 * **Ideación del producto y prototipado**: Con lo obtenido, se empieza la creación del producto con lo datos recabados.
 * **Testeo y Realización de producto**: Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital y con los feedbacks recibidos se prototipa.
 
+### Guía de entrevista para usuarios: 
+[Link del archivo de guía](https://docs.google.com/document/d/1Q53O030YK2eXA-HvkJxDAnTNqPbEHFnSbx-wbpYsNMY/edit)
+
+### User Persona:
+En base a las respuestas de los usuarios se decidió realizar un User Persona.
+
+![user-persona](assets/documents/user-persona.png)
+
+### Analisis de las respuestas y Card Sorting:
+Analisis de las respuestas de los entrevistados y realización del proceso de Card Sorting para la separación de las necesidades que debemos cubrir para los usuarios.
+
+![Card Sorting](assets/documents/cardSorting.jpg)
+
+### Benchmarking:
+
+
 ### Miembros:
 * [Alejandra Hoces](https://github.com/alejandraHoces)
 * [Daniela Centeno](https://github.com/DDCenteno)
