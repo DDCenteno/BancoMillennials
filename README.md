@@ -60,13 +60,13 @@ Crear una banca 100% digital para los millennials, que sea de fácil acceso, que
 ### Guía de entrevista para usuarios: 
 [Link del archivo de guía](https://docs.google.com/document/d/1Q53O030YK2eXA-HvkJxDAnTNqPbEHFnSbx-wbpYsNMY/edit)  
 ### Resumen de las entrevistas realizadas  
--75% visita las oficinas una o ninguna vez al mes
--Desean una estrategia digital clara
--Por ejemplo, compartir una opinión de una experiencia que han tenido, o dejarse guiar por las opiniones del resto de usuarios. Son más colectivos, viven en un mundo donde se comparte el conocimiento”.
--Buscan independizarse, viajar, pasárselo bien
--Son muy exigentes en cómo empresas y bancos nos acercamos a ellos. Dan un minuto a una aplicación móvil para que les satisfaga. Si no, la borrarán para siempre.
--No quieren una relación autoritaria como hasta ahora, en la que el banco nos decía cómo se tenían que hacer las cosas.
--El 41% de los encuestados afirmaba que elegía su banco por el mejor uso de su aplicación móvil.
+-75% visita las oficinas una o ninguna vez al mes.  
+-Desean una estrategia digital clara.  
+-Por ejemplo, compartir una opinión de una experiencia que han tenido, o dejarse guiar por las opiniones del resto de usuarios. Son más colectivos, viven en un mundo donde se comparte el conocimiento”.  
+-Buscan independizarse, viajar, pasárselo bien.  
+-Son muy exigentes en cómo empresas y bancos nos acercamos a ellos. Dan un minuto a una aplicación móvil para que les satisfaga. Si no, la borrarán para siempre.  
+-No quieren una relación autoritaria como hasta ahora, en la que el banco nos decía cómo se tenían que hacer las cosas.  
+-El 41% de los encuestados afirmaba que elegía su banco por el mejor uso de su aplicación móvil.  
 
 ### User Persona:
 En base a las respuestas de los usuarios se decidió realizar un User Persona.
