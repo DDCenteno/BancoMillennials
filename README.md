@@ -55,7 +55,9 @@ Crear una banca 100% digital para los millennials, que sea de fácil acceso, que
 * **Entrevistas a Usuarios**: Realización de entrevistas con usuarios dentro del rango que buscamos acaparar (millennial).
 * **Entrevistas a Expertos**: Realización de entrevistas con respecto a empresas o aplicaciones similares.
 * **Ideación del producto y prototipado**: Con lo obtenido, se empieza la creación del producto con lo datos recabados.
-* **Testeo y Realización de producto**: Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital y con los feedbacks recibidos se prototipa.
+* **Testeo y Realización de producto**: Se realiza un testeo con lo usuarios sobre la nueva propuesta del banco digital y con los feedbacks recibidos se prototipa.  
+## PROCESO  
+![2diamante](https://user-images.githubusercontent.com/31807340/37246469-41235a16-2477-11e8-9ac1-17ef9d88a1f4.png)
 
 ### Guía de entrevista para usuarios 
 [Link del archivo de guía](https://docs.google.com/document/d/1Q53O030YK2eXA-HvkJxDAnTNqPbEHFnSbx-wbpYsNMY/edit)  
