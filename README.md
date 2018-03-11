@@ -68,9 +68,9 @@ Decidimos realizar entrevistas presenciales para centrarnos en el lenguaje corpo
 -  Desean una estrategia digital clara.  
 -  Por ejemplo, compartir una opinión de una experiencia que han tenido, o dejarse guiar por las opiniones del resto de usuarios. Son más colectivos, viven en un mundo donde se comparte el conocimiento”.  
 -  Buscan independizarse, viajar, pasárselo bien.  
--  Son muy exigentes en cómo empresas y bancos nos acercamos a ellos. Dan un minuto a una aplicación móvil para que les satisfaga. Si no, la borrarán para siempre.  
--  No quieren una relación autoritaria como hasta ahora, en la que el banco nos decía cómo se tenían que hacer las cosas.  
--  El 41% de los encuestados afirmaba que elegía su banco por el mejor uso de su aplicación móvil.  
+-  Son muy exigentes en cómo empresas y bancos se acercan a ellos. Dan un minuto a una aplicación móvil para que les satisfaga. Si no, la borrarán para siempre.  
+-  No quieren una relación autoritaria como hasta ahora, en la que el banco dice cómo se tienen que hacer las cosas.  
+-  El 41% de los encuestados afirma que elegía su banco por el mejor uso de su aplicación móvil.  
 
 ### User Persona:
 En base a las respuestas de los usuarios se decidió realizar un User Persona.
@@ -82,8 +82,15 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 
 ![Card Sorting](assets/documents/cardSorting.jpg)
 
-### Benchmarking:
-
+### Benchmarking:  
+![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
+En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:
+**SIMPLE**  
+Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
+**INTERBANK**  
+La aplicación de Interbank te permite realizar operaciones de una manera fácil, rápida y segura. Esta App nos pareció buena ya que se centran en dar seguridad a los usuarios.  
+**BCP-YAPE**  
+Yape es un app que tiene un diseño juvenil y un lenguaje amigable .
 
 ### Miembros:
 * [Alejandra Hoces](https://github.com/alejandraHoces)
