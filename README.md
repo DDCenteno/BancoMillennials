@@ -1,6 +1,7 @@
 # Banco Millennial
 
 Nuestro cliente el Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple nació SABI una banca 100% digital dirigido para millennials, [conócela](https://marvelapp.com/628i8jb) !  
+
 ![corel](https://user-images.githubusercontent.com/31807340/37257048-986873d2-2531-11e8-8c19-f2d1bda5861d.png)
 
 ## Desarrollado para Laboratoria.
@@ -86,26 +87,35 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 ![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
 
 En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
-#### **Simple**  
+#### **Simple**
 Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
-#### **Interbank**  
+#### **Interbank**
 La aplicación de Interbank te permite realizar operaciones de una manera fácil, rápida y segura. Esta App se centran en brindar seguridad a los usuarios.  
-#### **Bcp-Yape**  
-Yape es un app que tiene un diseño juvenil y un lenguaje amigable .  
+#### **Bcp-Yape**
+Yape es un app que tiene un diseño juvenil y un lenguaje amigable.
 
-### Feature list:  
+### Feature list:
 
-Características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
-- Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).  
-- Transferencias (Entre tus cuentas, a otras cuentas, interbancarias).  
-- Tus metas de ahorro.  
-- Pagos (agua luz, Recarga de celular, pagos a instituciones).  
-- Bloqueo de tarjeta.  
-- Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).  
-- Ubícanos (cajeros y agentes).  
+Características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.
+- Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).
+- Transferencias (Entre tus cuentas, a otras cuentas, interbancarias).
+- Tus metas de ahorro.
+- Pagos (agua luz, Recarga de celular, pagos a instituciones).
+- Bloqueo de tarjeta.
+- Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).
+- Ubícanos (cajeros y agentes).
 
-### Content Prototyping:  
+### Content Prototyping: [Clic para visualizar](https://docs.google.com/document/d/1E3DhWLPYFCzkVqU-p-hPOvgaTQXgfrDRwTpYEi9H1Eg/edit)
 ### Protipo:
+
+* **Paper prototype**
+
+![paperPrototype](assets/documents/paperprototype.jpg)
+
+* **Prototype Digital**: [Demo completa](https://marvelapp.com/628i8jb)
+
+![paperPrototypeDigital](assets/documents/previ.jpg)
+
 ### Testing y feedback:
 
 
