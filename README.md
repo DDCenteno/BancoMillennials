@@ -62,8 +62,7 @@ Crear una banca 100% digital para los millennials, que sea de fácil acceso, que
 ### Guía de entrevista para usuarios 
 [Link del archivo de guía](https://docs.google.com/document/d/1Q53O030YK2eXA-HvkJxDAnTNqPbEHFnSbx-wbpYsNMY/edit)  
 ### Resumen de las entrevistas realizadas:
-Decidimos realizar entrevistas presenciales para centrarnos en el lenguaje corporal.
-
+Decidimos realizar entrevistas presenciales para centrarnos en el lenguaje corporal.   
 -  75% visita las oficinas una o ninguna vez al mes.  
 -  Desean una estrategia digital clara.  
 -  Por ejemplo, compartir una opinión de una experiencia que han tenido, o dejarse guiar por las opiniones del resto de usuarios. Son más colectivos, viven en un mundo donde se comparte el conocimiento”.  
@@ -84,13 +83,25 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 
 ### Benchmarking:  
 ![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
+Información Clave  
 En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
 **SIMPLE**  
 Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
 **INTERBANK**  
-La aplicación de Interbank te permite realizar operaciones de una manera fácil, rápida y segura. Esta App nos pareció buena ya que se centran en dar seguridad a los usuarios.  
+La aplicación de Interbank te permite realizar operaciones de una manera fácil, rápida y segura. Esta App se centran en brindar seguridad a los usuarios.  
 **BCP-YAPE**  
-Yape es un app que tiene un diseño juvenil y un lenguaje amigable .
+Yape es un app que tiene un diseño juvenil y un lenguaje amigable .  
+### feature list:  
+
+Muestra las características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
+- Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).  
+- Transferencias (Entre tus cuentas, a otras cuentas, interbancarias).  
+- Pagos (agua luz, Recarga de celular, pagos a instituciones).  
+- Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).  
+- Bloqueo de tarjeta.  
+- Ubícanos (cajeros o agentes).  
+
+
 
 ### Miembros:
 * [Alejandra Hoces](https://github.com/alejandraHoces)
