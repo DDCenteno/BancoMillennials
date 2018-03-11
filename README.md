@@ -95,7 +95,7 @@ Yape es un app que tiene un diseño juvenil y un lenguaje amigable .
 
 ### Feature list:  
 
-Muestra las características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
+Características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
 - Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).  
 - Transferencias (Entre tus cuentas, a otras cuentas, interbancarias).  
 - Tus metas de ahorro.  
