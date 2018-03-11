@@ -84,7 +84,7 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 
 ### Benchmarking:  
 ![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
-En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:
+En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
 **SIMPLE**  
 Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
 **INTERBANK**  
