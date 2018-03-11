@@ -83,7 +83,7 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 
 ### Benchmarking:  
 ![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
-Información Clave  
+
 En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
 **SIMPLE**  
 Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
@@ -96,10 +96,11 @@ Yape es un app que tiene un diseño juvenil y un lenguaje amigable .
 Muestra las características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
 - Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).  
 - Transferencias (Entre tus cuentas, a otras cuentas, interbancarias).  
+- Tus metas de ahorro.  
 - Pagos (agua luz, Recarga de celular, pagos a instituciones).  
-- Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).  
 - Bloqueo de tarjeta.  
-- Ubícanos (cajeros o agentes).  
+- Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).  
+- Ubícanos (cajeros y agentes).  
 
 
 
