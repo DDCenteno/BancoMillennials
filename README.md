@@ -3,7 +3,7 @@
 El Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.  
 ___  
 
-Después de un exhaustivo proceso nació SABI una banca 100% digital para gente genial como tú, conócela !  
+Después de un exhaustivo proceso nació SABI una banca 100% digital para gente genial como tú, [conócela]() !  
 ![corel](https://user-images.githubusercontent.com/31807340/37257048-986873d2-2531-11e8-8c19-f2d1bda5861d.png)
 
 ## Desarrollado para Laboratoria.
