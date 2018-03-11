@@ -85,13 +85,14 @@ Analisis de las respuestas de los entrevistados y realización del proceso de Ca
 ![corel](https://user-images.githubusercontent.com/31807340/37255926-8e658fc4-2521-11e8-8939-13d6783435f5.png)  
 
 En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
-**SIMPLE**  
+#### **Simple**  
 Simple es un banco que inspira confianza, tienen una buena estructura de información y se centran directamente en las necesidades habituales de los usuarios.  
-**INTERBANK**  
+#### **Interbank**  
 La aplicación de Interbank te permite realizar operaciones de una manera fácil, rápida y segura. Esta App se centran en brindar seguridad a los usuarios.  
-**BCP-YAPE**  
+#### **Bcp-Yape**  
 Yape es un app que tiene un diseño juvenil y un lenguaje amigable .  
-### feature list:  
+
+### Feature list:  
 
 Muestra las características de nuestro producto digital priorizadas según la necesidad de nuestro usuario.  
 - Consultas (Saldos, últimos movimientos de cuentas (donde ha realizado un pago) y cuentas (crédito y débito)).  
@@ -101,6 +102,8 @@ Muestra las características de nuestro producto digital priorizadas según la n
 - Bloqueo de tarjeta.  
 - Atención al cliente (comunícate con nosotros, video llamada, mensajes, reclamos).  
 - Ubícanos (cajeros y agentes).  
+
+### Content Prototyping:  
 
 
 
