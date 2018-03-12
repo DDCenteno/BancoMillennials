@@ -118,7 +118,7 @@ Características de nuestro producto digital priorizadas según la necesidad de 
 
 ### Testing y feedback:
 
-
+![collage](assets/documents/collage.jpg)
 
 ### Miembros:
 * [Alejandra Hoces](https://github.com/alejandraHoces)
