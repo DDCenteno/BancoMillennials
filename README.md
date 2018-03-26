@@ -1,6 +1,6 @@
 # Banco Millennial
 
-Nuestro cliente el Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple nació SABI una banca 100% digital dirigido para millennials, [conócela](https://marvelapp.com/628i8jb) !  
+Nuestro cliente el Banco del País es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple nació SABI una banca 100% digital dirigido para millennials. !  
 
 ![corel](https://user-images.githubusercontent.com/31807340/37257048-986873d2-2531-11e8-8c19-f2d1bda5861d.png)
 
