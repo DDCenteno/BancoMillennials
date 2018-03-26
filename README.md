@@ -4,7 +4,9 @@ Nuestro cliente el Banco del País es una institución de muchos años y actualm
 
 ![corel](https://user-images.githubusercontent.com/31807340/37257048-986873d2-2531-11e8-8c19-f2d1bda5861d.png)
 
-## Desarrollado para Laboratoria.
+## Desarrollado para
+
+[Laboratoria](http://www.laboratoria.la/)
 ___
 
 ### Introducción:
