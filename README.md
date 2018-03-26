@@ -15,7 +15,7 @@ Los millennials al ser una población aproximada del 70%, con la caracteristica 
 
 Crear una banca 100% digital para los millennials, que sea de fácil acceso, que se adapte a cualquier necesidad, con un buen soporte de ayuda al usuario, que les brinde confianza y que sea de utilidad. Una app / web más personalizada que le permita al usuario realizar cualquier tipo de consulta y trámite bancario en menos tiempo sin colas ni confusiones.
 
-[Link de la presentación](https://docs.google.com/presentation/d/1IidnhES_ktjlBexaw6KgnrKLCoHs6xrZquP4pc6_9g4/edit#slide=id.p3)
+[Link de la presentación](https://docs.google.com/presentation/d/1IidnhES_ktjlBexaw6KgnrKLCoHs6xrZquP4pc6_9g4/edit)
 
 ### SkateHolders del proyecto:
 
