@@ -6,7 +6,6 @@ Nuestro cliente el Banco del País es una institución de muchos años y actualm
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
-___
 
 ### Introducción:
 
